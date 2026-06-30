@@ -1,0 +1,8 @@
+Model,Train Acc,Accuracy,Gap,Precision,Recall,F1 Score,CV Score,CV Std,Status
+K-Nearest Neighbors,99.13,98.21,0.92,98.48,98.21,98.21,97.64,0.78,🟢 GOOD
+Naive Bayes,97.89,98.05,-0.16,98.33,98.05,98.05,97.97,0.69,🟢 GOOD
+Logistic Regression,98.7,97.56,1.14,97.91,97.56,97.56,97.89,0.79,🟢 GOOD
+Random Forest,98.37,97.56,0.81,97.81,97.56,97.56,97.11,0.71,🟢 GOOD
+Gradient Boosting,99.13,96.42,2.71,96.73,96.42,96.45,96.3,0.97,🟢 GOOD
+AdaBoost,43.04,38.86,4.17,45.98,38.86,39.92,35.73,3.82,🟢 GOOD
+Decision Tree,23.14,20.49,2.66,20.81,20.49,19.16,19.27,0.33,🟢 GOOD
